@@ -1,0 +1,15 @@
+C:\Users\hyang\Desktop\220721\vs_code\bin\Debug\net7.0\vs_code.exe
+C:\Users\hyang\Desktop\220721\vs_code\bin\Debug\net7.0\vs_code.deps.json
+C:\Users\hyang\Desktop\220721\vs_code\bin\Debug\net7.0\vs_code.runtimeconfig.json
+C:\Users\hyang\Desktop\220721\vs_code\bin\Debug\net7.0\vs_code.dll
+C:\Users\hyang\Desktop\220721\vs_code\bin\Debug\net7.0\vs_code.pdb
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.csproj.AssemblyReference.cache
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.AssemblyInfoInputs.cache
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.AssemblyInfo.cs
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.csproj.CoreCompileInputs.cache
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.dll
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\refint\vs_code.dll
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.pdb
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\vs_code.genruntimeconfig.cache
+C:\Users\hyang\Desktop\220721\vs_code\obj\Debug\net7.0\ref\vs_code.dll
